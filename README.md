@@ -25,6 +25,7 @@ Sistema simples de gerenciamento de pontos de fidelidade baseado em compras. O s
 QA/
 ├── src/
 │   └── sistema_pontos.ts    # Implementação do sistema
+│   └── index.ts 
 ├── tests/
 │   └── test_sistema_pontos.test.ts  # Testes unitários
 ├── package.json
