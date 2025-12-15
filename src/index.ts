@@ -1,4 +1,4 @@
-import { SistemaPontos, Cliente, TipoCliente } from './sistema_pontos';
+import { SistemaPontos, TipoCliente } from './sistema_pontos';
 
 const sistema = new SistemaPontos();
 
